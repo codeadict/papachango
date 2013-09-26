@@ -1,0 +1,5 @@
+# These packages will greatly aid development efforts, but
+# do not need to be installed in a production environment.
+django-debug-toolbar==0.9.4
+pep8==1.4.5
+Sphinx==1.2b1
